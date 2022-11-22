@@ -15,3 +15,5 @@ Table of Contents:
 
 
  This update has been added in the updateREADME branch
+ 
+ This update has been made via GitHub
